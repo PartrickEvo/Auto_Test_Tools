@@ -3,7 +3,7 @@ Oscilloscope remote control / AI analysis waveform / Serial commands
 
 
 1. Connect the **TEK MSO54 oscilloscope** via TYPE B or Ethernet to enable remote control and screenshots.
-2. Integrate with the **Alibaba Qianwen large language model** to enable AI conversations, waveform analysis, measurement result analysis, and export to Excel and HTML.
+2. Integrate with the Qwen large language model to enable AI conversations, waveform analysis, measurement result analysis, and export to Excel and HTML.
 3. The serial port tool can quickly import commands by loading the `command_library.xlsx` file.
 
 ## ❤️ Support / 赞赏支持
