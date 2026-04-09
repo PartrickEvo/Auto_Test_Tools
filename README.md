@@ -8,9 +8,9 @@ Oscilloscope remote control / AI analysis waveform / Serial commands
 
 ## ❤️ Support / 赞赏支持
 
-如果这个项目对你有帮助，欢迎自愿赞赏支持开发者 ☕
+如果这个项目对你有帮助，欢迎自愿赞赏支持开发者 ☕  
 
-If you find this project useful, you can support the developer with a voluntary donation.
+If you find this project useful, you can support the developer with a voluntary donation. If you have problem，contact with me 212838849@qq.com.
 
 > ⚠️ Donation is completely optional and does NOT unlock any additional features.
 
