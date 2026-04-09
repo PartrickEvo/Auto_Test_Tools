@@ -20,7 +20,7 @@ If you find this project useful, you can support the developer with a voluntary 
 
 - Alipay（支付宝）
 - WeChat Pay（微信支付）
-![Image text](https://github.com/PartrickEvo/Auto_Test_Serial_tools-base-on-qwen/blob/main/Auto_Test/img-folder/WeChat.jpg)
+![Image text](https://github.com/PartrickEvo/Auto_Test_Serial_tools-base-on-qwen/blob/main/Auto_Test/Image%20folder/WeChat.jpg)
 
 ---
 
